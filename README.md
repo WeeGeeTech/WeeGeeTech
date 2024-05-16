@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WeeGeeTech. I am a multimedia developer and educator. I have advanced degrees in education and curriculum development, and recently expanded my education by completing a bachelor of science in computer science with a concentrtation on secure programming.
+- 👋 Hi, I’m @WeeGeeTech. I am a multimedia developer and educator. I have advanced degrees in education and curriculum development, and recently expanded my education by completing a bachelor of science in computer science with a concentration on secure programming.
 - 👀 I’m interested in tech projects that relate to custom multimedia development and/or education and training projects designed for digital distribution. I am also learning 
 - 🌱 I’m currently learning the Python language and working to expand my knowledge of penetration testing. 
 - 💞️ I’m looking to collaborate on projects related to security programming, security research, or education and training projects. 
